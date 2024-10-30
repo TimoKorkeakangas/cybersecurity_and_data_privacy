@@ -1,1 +1,1 @@
-# Cybersecurity and data privacy Logbook
+# Cybersecurity and data privacy course Logbook
