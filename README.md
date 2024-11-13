@@ -12,3 +12,5 @@ Cisco academy: Module 2
 Cisco academy: Modules 3-4
 ### 10.11.2024, 16:00-17:00, 1h
 Cisco academy: Modules 5 and final exam
+### 11.11.2024, 16:00-17:30, 1,5h
+Attending lecture
