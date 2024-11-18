@@ -18,3 +18,5 @@ Attending lecture
 Week 3 assignment and workshop
 ### 17.11.2024, 2h
 Introduction to the portswigger environment assignment
+### 18.11.2024, 2h
+Attending lecture
