@@ -20,3 +20,5 @@ Week 3 assignment and workshop
 Introduction to the portswigger environment assignment
 ### 18.11.2024, 2h
 Attending lecture
+### 24.11.2024, 1,5h
+The Booking system project → Phase 1 completion
