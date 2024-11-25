@@ -25,3 +25,5 @@ The Booking system project → Phase 1 completion
 First round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/Registration_page_first_tests.md  
 Added data validation to registration process in accordance with given examples  
 Second round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/2024-11-24-ZAP-Report_second_round-.md  
+### 25.11.2024, 2h
+Attending lecture
