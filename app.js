@@ -6,6 +6,25 @@ import { serveStatic } from "https://deno.land/x/hono/middleware.ts";
 
 const app = new Hono();
 
+// Middleware to set security headers including Content-Security-Policy, X-Frame-Options, and X-Content-Type-Options
+app.use('*', (c, next) => {
+    c.header('Content-Type', 'text/html');
+
+    c.header('Content-Security-Policy', 
+        "default-src 'self'; " + 
+        "script-src 'self'; " +
+        "style-src 'self'; " +
+        "img-src 'self'; " +
+        "frame-ancestors 'none'; " +
+        "form-action 'self';");
+    
+    c.header('X-Frame-Options', 'DENY');
+
+    c.header('X-Content-Type-Options', 'nosniff');
+
+    return next();
+});
+
 // Serve static files from the /static directory
 app.use('/static/*', serveStatic({ root: '.' }));
 
