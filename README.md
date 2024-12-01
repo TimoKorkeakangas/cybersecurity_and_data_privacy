@@ -22,6 +22,6 @@ First round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_dat
 Added data validation to registration process in accordance with given examples  
 Second round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/2024-11-24-ZAP-Report_second_round-.md  
 ### Phase 2 Reports
-First round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/login_first_test.md
-Added CSP Headers
-Second round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/ZAP%20reports/login_test_second_round.md
+First round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/login_first_test.md  
+Added CSP Headers  
+Second round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/ZAP%20reports/login_test_second_round.md  
