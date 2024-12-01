@@ -30,13 +30,6 @@ app.get('/login', async (c) => {
 // Handle user login
 app.post('/login', loginUser);
 
-// Start the server with middleware
-async function mainHandler(req, info) {
-    connectionInfo = info;
-    return await addSecurityHeaders(req, handler);
-}
-serve(mainHandler, { port: 8000 });
-
 Deno.serve(app.fetch);
 
 // Run the app using the command:
