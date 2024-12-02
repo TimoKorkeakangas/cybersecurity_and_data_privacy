@@ -15,6 +15,7 @@
 | 24.11.2024 | 1,5 | The Booking system project → Phase 1 completion |
 | 25.11.2024 | 2 | Attending lecture |
 | 1.12.2024 | 4 | The Booking system project → Phase 2 completion |
+| 2.12.2024 | 2 Attending lecture |
 
 ## ZAP Reports
 ### Phase 1 Reports
