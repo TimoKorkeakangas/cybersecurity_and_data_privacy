@@ -10,7 +10,7 @@
 | 10.11.2024 | 1 | Cisco academy: Modules 5 and final exam |
 | 11.11.2024 | 2 | Attending lecture |
 | 13.11.2024 | 3,5 | Week 3 assignment and workshop |
-| 17.11.2024 | 2 | Introduction to the portswigger environment assignment |
+| 17.11.2024 | 3 | Introduction to the portswigger environment assignment |
 | 18.11.2024 | 2 | Attending lecture |
 | 24.11.2024 | 1,5 | The Booking system project → Phase 1 completion |
 | 25.11.2024 | 2 | Attending lecture |
