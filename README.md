@@ -5,7 +5,7 @@
 | 30.10.2024 | 2 | Attending lecture  |
 | 4.11.2024 | 1 | Attending lecture, installing Burp  |
 | 5.11.2024 | 2 | Cisco academy: Module 1  |
-| 9.11.2024 | 2 | Kick-off lecture  |
+| 9.11.2024 | 2 | Cisco academy: Module 2  |
 | 10.11.2024 | 2 | Cisco academy: Modules 3-4 |
 | 10.11.2024 | 1 | Cisco academy: Modules 5 and final exam |
 | 11.11.2024 | 2 | Attending lecture |
