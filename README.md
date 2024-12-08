@@ -18,6 +18,7 @@
 | 2.12.2024 | 2 | Attending lecture |
 | 4.12.2024 | 2 | Attending workshop|
 | 8.12.2024 | 2 | Updated the application to Phase 3 and did vulnerability testing |
+| 8.12.2024 | 1,5 | Finishing Phase 3 and writing report on issues |
 
 ## ZAP Reports
 ### Phase 1 Reports
@@ -28,3 +29,6 @@ Second round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_da
 First round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/login_first_test.md  
 Added CSP Headers  
 Second round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/ZAP%20reports/login_test_second_round.md  
+### Phase 3 Reports
+ZAP test report: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/ZAP%20reports/phase3_first_report_resources_and_reservations.md
+Final report on vulnerabilities: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/ZAP%20reports/phase3_final_report.md
