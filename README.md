@@ -17,6 +17,7 @@
 | 1.12.2024 | 4 | The Booking system project → Phase 2 completion |
 | 2.12.2024 | 2 | Attending lecture |
 | 4.12.2024 | 2 | Attending workshop|
+| 8.12.2024 | 2 | Updated the application to Phase 3 and did vulnerability testing |
 
 ## ZAP Reports
 ### Phase 1 Reports
