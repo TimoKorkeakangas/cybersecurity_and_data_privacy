@@ -19,6 +19,7 @@
 | 4.12.2024 | 2 | Attending workshop|
 | 8.12.2024 | 2 | Updated the application to Phase 3 and did vulnerability testing |
 | 8.12.2024 | 1,5 | Finishing Phase 3 and writing report on potential issues |
+| 11.12.2024 | 1 | Attending workshop |
 
 ## ZAP Reports
 ### Phase 1 Reports
