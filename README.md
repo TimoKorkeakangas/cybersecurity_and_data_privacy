@@ -21,6 +21,7 @@
 | 8.12.2024 | 1,5 | Finishing Phase 3 and writing report on potential issues |
 | 11.12.2024 | 1 | Attending workshop |
 | 15.12.2024 | 2 | Portswigger: Completed apprentice labs for SQL injections, Access control and Authentication |
+| 15.12.2024 | 1,5 | Phase 4 completed |
 
 ## ZAP Reports
 ### Phase 1 Reports
@@ -34,3 +35,5 @@ Second round zap tests: https://github.com/TimoKorkeakangas/cybersecurity_and_da
 ### Phase 3 Reports
 ZAP test report: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/ZAP%20reports/phase3_first_report_resources_and_reservations.md  
 Final report on vulnerabilities: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/ZAP%20reports/phase3_final_report.md  
+### Phase 4 Repors
+Zap test report: https://github.com/TimoKorkeakangas/cybersecurity_and_data_privacy/blob/main/ZAP%20reports/phase4_zap_report.md
