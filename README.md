@@ -20,6 +20,7 @@
 | 8.12.2024 | 2 | Updated the application to Phase 3 and did vulnerability testing |
 | 8.12.2024 | 1,5 | Finishing Phase 3 and writing report on potential issues |
 | 11.12.2024 | 1 | Attending workshop |
+| 15.12.2024 | 2 | Portswigger: Completed apprentice labs for SQL injections, Access control and Authentication |
 
 ## ZAP Reports
 ### Phase 1 Reports
