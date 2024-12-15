@@ -22,6 +22,7 @@
 | 11.12.2024 | 1 | Attending workshop |
 | 15.12.2024 | 2 | Portswigger: Completed apprentice labs for SQL injections, Access control and Authentication |
 | 15.12.2024 | 1,5 | Phase 4 completed |
+| 15.12.2024 | 2 | Final phase report |
 
 ## ZAP Reports
 ### Phase 1 Reports
